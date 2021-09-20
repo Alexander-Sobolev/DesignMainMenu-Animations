@@ -11,6 +11,7 @@
 		B465821C26F8E5310007BD60 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B465821B26F8E5310007BD60 /* ContentView.swift */; };
 		B465821E26F8E5320007BD60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B465821D26F8E5320007BD60 /* Assets.xcassets */; };
 		B465822126F8E5320007BD60 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B465822026F8E5320007BD60 /* Preview Assets.xcassets */; };
+		B465822B26F934810007BD60 /* Screen .png in Resources */ = {isa = PBXBuildFile; fileRef = B465822A26F934810007BD60 /* Screen .png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		B465821D26F8E5320007BD60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B465822026F8E5320007BD60 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B465822226F8E5320007BD60 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B465822A26F934810007BD60 /* Screen .png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen .png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				B465821926F8E5310007BD60 /* DesignMainMenu_AnimationsApp.swift */,
 				B465821B26F8E5310007BD60 /* ContentView.swift */,
 				B465821D26F8E5320007BD60 /* Assets.xcassets */,
+				B465822A26F934810007BD60 /* Screen .png */,
 				B465822226F8E5320007BD60 /* Info.plist */,
 				B465821F26F8E5320007BD60 /* Preview Content */,
 			);
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B465822126F8E5320007BD60 /* Preview Assets.xcassets in Resources */,
+				B465822B26F934810007BD60 /* Screen .png in Resources */,
 				B465821E26F8E5320007BD60 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
